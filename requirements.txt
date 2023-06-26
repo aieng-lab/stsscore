@@ -1,0 +1,9 @@
+jupyterlab
+seaborn
+numpy
+pandas
+matplotlib
+transformers
+datasets
+evaluate
+bert-score
