@@ -7,3 +7,4 @@ transformers
 datasets
 evaluate
 bert-score
+sentence-transformers
