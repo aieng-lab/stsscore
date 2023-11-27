@@ -36,4 +36,13 @@ Enjoy!
 
 If you use STSScore in your work, please cite our paper:
 
-TBD
+```
+@misc{herbold2023semantic,
+      title={Semantic similarity prediction is better than other semantic similarity measures}, 
+      author={Steffen Herbold},
+      year={2023},
+      eprint={2309.12697},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
