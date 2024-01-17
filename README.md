@@ -64,6 +64,6 @@ If you use STSScore in your work, please cite our paper:
       journal={Transactions on Machine Learning Research},
       issn={2835-8856},
       year={2024},
-      url={https://openreview.net/forum?id=bfsNmgN5je},
+      url={https://openreview.net/forum?id=bfsNmgN5je}
 }
 ```
